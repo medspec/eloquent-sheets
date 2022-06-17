@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.3",
+        "php": "^7.3|^8.0|^8.1",
         "illuminate/support": ">=6.0",
         "revolution/laravel-google-sheets": "^5.0",
         "calebporzio/sushi": "^2.0",
