@@ -13,14 +13,10 @@
     "prefer-stable": true,
     "require": {
         "php": "^7.3|^8.0|^8.1",
-        "illuminate/support": ">=6.0",
+        "illuminate/support": "^9.0",
         "revolution/laravel-google-sheets": "^5.0",
         "calebporzio/sushi": "^2.0",
         "ext-json": "*"
-    },
-    "require-dev": {
-        "orchestra/testbench": "^5.0",
-        "friendsofphp/php-cs-fixer": "^2.16"
     },
     "autoload": {
         "psr-4": {
